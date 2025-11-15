@@ -1,7 +1,7 @@
 /**
  * @file config.h
  * @author Luis Felipe Patrocinio
- * @brief Centralized configuration file for the PatroAutroController project.
+ * @brief Centralized configuration file for the PatroAutoController project.
  * @version 0.3
  * @date 2025-11-14
  */

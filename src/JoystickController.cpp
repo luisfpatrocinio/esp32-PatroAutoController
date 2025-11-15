@@ -11,7 +11,7 @@
 
 // Instantiate the BLE Gamepad object
 // Parameters: Device Name, Manufacturer Name, Battery Level
-BleGamepad bleGamepad("PatroAutroController", "LFP", 100);
+BleGamepad bleGamepad("PatroAutoController", "LFP", 100);
 
 void joystick_init()
 {

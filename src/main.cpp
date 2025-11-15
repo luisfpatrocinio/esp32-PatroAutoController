@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @author Luis Felipe Patrocinio (patrocinioluisf@gmail.com)
- * @brief PatroAutroController - An ESP32 FreeRTOS-based Joystick.
+ * @brief PatroAutoController - An ESP32 FreeRTOS-based Joystick.
  * @version 0.4
  * @date 2025-11-14
  * @copyright Copyright (c) 2025
@@ -73,7 +73,7 @@ void setup()
     joystick_init(); // Initialize our new joystick module
 
     vTaskDelay(pdMS_TO_TICKS(1000));
-    Serial.println("--- PatroAutroController ---");
+    Serial.println("--- PatroAutoController ---");
     Serial.println("System starting... Waiting for BLE connection.");
 
     xTaskCreate(
