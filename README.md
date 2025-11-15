@@ -88,6 +88,7 @@ PatroAutoController/
 │   ├── HardwareIO.cpp       # Implementation for reading sensors and controlling LEDs
 │   └── JoystickController.cpp # Implementation of the BLE Gamepad service
 └── platformio.ini         # PlatformIO project configuration```
+````
 
 ## ⚖️ License
 
@@ -98,4 +99,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Luis Felipe Patrocinio - patrocinioluisf@gmail.com
 
 Project Link: [https://github.com/luisfpatrocinio/esp32-PatroAutoController](https://github.com/luisfpatrocinio/esp32-PatroAutoController)
-````
