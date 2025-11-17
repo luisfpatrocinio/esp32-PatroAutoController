@@ -30,6 +30,8 @@ This project is built with a focus on software engineering best practices, featu
 
 ## 🔌 Circuit Diagram
 
+![PatroAutoController Layout](PatroAutoControllerLayout.png)
+
 Connect the components as follows:
 
 | ESP32 Pin  | Component Connection                                                  |
